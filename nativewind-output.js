@@ -27,7 +27,7 @@ _NativeWindStyleSheet.create({
     },
     "html": {
       "lineHeight": 1.5,
-      "fontFamily": "ui-sans-serif"
+      "fontFamily": "Inter"
     },
     "body": {
       "marginTop": 0,
@@ -249,9 +249,6 @@ _NativeWindStyleSheet.create({
     },
     "justify-center": {
       "justifyContent": "center"
-    },
-    "bg-white": {
-      "backgroundColor": "#fff"
     },
     "text-violet-600": {
       "color": "#7c3aed"
