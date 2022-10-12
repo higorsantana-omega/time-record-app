@@ -8,22 +8,14 @@ _NativeWindStyleSheet.create({
       "borderRightWidth": 0,
       "borderBottomWidth": 0,
       "borderLeftWidth": 0,
-      "borderStyle": "solid",
-      "borderTopColor": "#e5e7eb",
-      "borderRightColor": "#e5e7eb",
-      "borderBottomColor": "#e5e7eb",
-      "borderLeftColor": "#e5e7eb"
+      "borderStyle": "solid"
     },
     "": {
       "borderTopWidth": 0,
       "borderRightWidth": 0,
       "borderBottomWidth": 0,
       "borderLeftWidth": 0,
-      "borderStyle": "solid",
-      "borderTopColor": "#e5e7eb",
-      "borderRightColor": "#e5e7eb",
-      "borderBottomColor": "#e5e7eb",
-      "borderLeftColor": "#e5e7eb"
+      "borderStyle": "solid"
     },
     "html": {
       "lineHeight": 1.5,
@@ -250,12 +242,82 @@ _NativeWindStyleSheet.create({
     "justify-center": {
       "justifyContent": "center"
     },
-    "text-violet-600": {
-      "color": "#7c3aed"
+    "rounded": {
+      "borderTopLeftRadius": 4,
+      "borderTopRightRadius": 4,
+      "borderBottomRightRadius": 4,
+      "borderBottomLeftRadius": 4
     },
-    "text-5xl": {
-      "fontSize": 48,
-      "lineHeight": 48
+    "bg-gray-700": {
+      "backgroundColor": "#27272A"
+    },
+    "py-4": {
+      "paddingTop": 16,
+      "paddingBottom": 16
+    },
+    "px-4": {
+      "paddingLeft": 16,
+      "paddingRight": 16
+    },
+    "font-sans": {
+      "fontFamily": "Inter"
+    },
+    "font-bold": {
+      "fontWeight": "700"
+    },
+    "text-lg": {
+      "fontSize": 16
+    },
+    "text-xl": {
+      "fontSize": 24
+    },
+    "text-xs": {
+      "fontSize": 12
+    },
+    "text-sm": {
+      "fontSize": 14
+    },
+    "w-full": {
+      "width": "100%"
+    },
+    "ml-1": {
+      "marginLeft": 4
+    },
+    "ml-4": {
+      "marginLeft": 16
+    },
+    "mr-4": {
+      "marginRight": 16
+    },
+    "m-4": {
+      "marginTop": 16,
+      "marginRight": 16,
+      "marginBottom": 16,
+      "marginLeft": 16
+    },
+    "w-5": {
+      "width": 20
+    },
+    "bg-gray-800": {
+      "backgroundColor": "#202024"
+    },
+    "w-52": {
+      "width": 208
+    },
+    "w-72": {
+      "width": 288
+    },
+    "color-blue-light": {
+      "color": "#81D8F7"
+    },
+    "color-gray-400": {
+      "color": "#7C7C8A"
+    },
+    "flex-row": {
+      "flexDirection": "row"
+    },
+    "bg-gray-900": {
+      "backgroundColor": "#121214"
     }
   }
 });
